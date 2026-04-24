@@ -3,7 +3,7 @@
 > A professional portfolio project demonstrating three key Explainable AI (XAI) 
 > techniques applied to a real medical classification task.
 
-**Live site →** `https://<your-username>.github.io/xai-portfolio`
+**Live site →** `https://ai-study-vault.github.io/xai-portfolio`
 
 ---
 
