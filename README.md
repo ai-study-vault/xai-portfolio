@@ -45,7 +45,7 @@ xai-portfolio/
 
 ```bash
 # 1. Clone
-git clone https://github.com/<your-username>/xai-portfolio.git
+git clone https://github.com/ai-study-vault/xai-portfolio.git
 cd xai-portfolio
 
 # 2. Install dependencies
